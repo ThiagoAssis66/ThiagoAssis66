@@ -1,5 +1,5 @@
 ### Ola, me chamo Thiago Assis 👋
-Formado em 2024 na área de Desenvolvimento de Software FullStack & Mobile. Descobrindo no BackEnd um dos meus maiores interesses e foco profissional, sempre me atualizando as tecnologias e desenvolvendo novos projetos. 
+Formado em 2024 na área de Desenvolvimento de Software FullStack & Mobile. Descobrindo no BackEnd um desafio, sempre me atualizando as tecnologias e desenvolvendo novos projetos. 
 
 Atualmente faço Pós Graduação em Administraçao de Banco de Dados 
 
