@@ -1,7 +1,7 @@
 ### Ola, me chamo Thiago Assis 👋
-Formado em 2024 na área de Desenvolvimento de Software FullStack & Mobile. Descobrindo no BackEnd um desafio, sempre me atualizando as tecnologias e desenvolvendo novos projetos. 
+Formado em 2024 na em Desenvolvimento de Software FullStack & Mobile. Descobrindo no BackEnd a vocação que procurava, sempre me atualizando as tecnologias e desenvolvendo novos projetos. 🚀
 
-Atualmente faço Pós Graduação em Administraçao de Banco de Dados 
+Atualmente esta em andamento minha Pós Graduação em Administraçao de Banco de Dados, focando em SQL e PHP 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-assis-3861ba71/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apenasthiagoassis/)
 
